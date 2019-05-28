@@ -1,0 +1,47 @@
+URL: https://www.saucedemo.com/index.html
+
+Test Scenario TestCase ID	TestCase Description											Test Steps			Expected Outcome
+Login Feature	TC_001	This is to verify the functionality of login feature with valid username and valid password			1. Open URL 			Login Successful
+																	2. Enter valid username	
+																	3. Enter valid password	
+																	4. Click on Login	
+		TC_002	This is to verify the functionality of login feature with valid username and invalid password			1. Open URL 			Login Fail
+																	2. Enter valid username	
+																	3. Enter invalid password	
+																	4. Click on Login	
+		TC_003	This is to verify the functionality of login feature with invalid username and valid password			1. Open URL 			Login Fail
+																	2. Enter invalid username	
+																	3. Enter valid password	
+																	4. Click on Login	
+		TC_004	This is to verify the functionality of login feature with invalid username and invalid password			1. Open URL			Login Fail
+																	2. Enter invalid username	
+																	3. Enter invalid password	
+																	4. Click on Login	
+		TC_005	This is to verify the functionality of login feature by leaving username field 'Blank' 				1. Open URL 			Login Fail
+			and entering valid password											2. Leave Username 'Blank'
+																	3. Enter valid password	
+																	4. Click on Login	
+		TC_006	This is to verify the functionality of login feature by  entering valid username 				1. Open URL 			Login Fail
+			and leaving password field 'Blank'										2. Enter valid username	
+																	3. Leave Password 'Blank'	
+																	4. Click on Login	
+		TC_007	This is to verify the functionality of login feature by  leaving both username and password field 'Blank'	1. Open URL 			Login Fail
+																	2. Leave Username 'Blank'	
+																	3. Leave Password 'Blank'	
+																	4. Click on Login	
+		TC_008	This is to verify the functionality of login feature by  entering Special Symbols in username field 		1. Open URL 			Login Fail
+			and enter valid password											2. Enter Special symbols in username
+																	3. Enter valid password	
+																	4. Click on Login	
+		TC_009	This is to verify the functionality of login feature by  entering only  Numbers in username field 		1. Open URL 			Login Fail
+			and enter valid password											2. Enter only Numbers in username
+																	3. Enter valid password	
+																	4. Click on Login	
+		TC_010	This is to verify the functionality of login feature by  entering valid username field 				1. Open URL 			Login Fail
+			and entering only special characters in password field								2. Enter valid username	
+																	3. Enter only special characters in password	
+																	4. Click on Login	
+		TC_011	This is to verify the functionality of login feature by  entering valid username field 				1. Open URL 			Login Fail
+			and entering only Numbers in password field									2. Enter valid username
+																	3. Enter only Numbers in password	
+																	4. Click on Login	
