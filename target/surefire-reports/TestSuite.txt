@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 109.689 sec <<< FAILURE! - in TestSuite
+loginTest001(com.SauceDemo.testCases.TC_001)  Time elapsed: 0.982 sec  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false]
+	at com.SauceDemo.testCases.TC_001.loginTest001(TC_001.java:42)
+
+loginTest001(com.SauceDemo.testCases.TC_001)  Time elapsed: 1.358 sec  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false]
+	at com.SauceDemo.testCases.TC_001.loginTest001(TC_001.java:42)
+

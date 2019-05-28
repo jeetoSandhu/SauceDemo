@@ -1,0 +1,200 @@
+2019-05-17 14:22:02,854 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:07,605 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:22:10,316 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:10,317 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:12,774 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:12,790 - SauceDemo -INFO - Login successful
+2019-05-17 14:22:12,898 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:12,899 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:13,695 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:13,701 - SauceDemo -INFO - Login successful
+2019-05-17 14:22:13,775 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:13,776 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:19,254 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:19,259 - SauceDemo -INFO - Login successful
+2019-05-17 14:22:19,371 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:19,372 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:19,780 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:19,792 - SauceDemo -ERROR - Login failed
+2019-05-17 14:22:21,137 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:24,966 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:22:26,319 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:22:26,320 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:26,688 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:26,766 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:22:26,932 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:22:26,933 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:27,291 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:27,354 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:22:28,211 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:32,190 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:22:33,360 - SauceDemo -INFO - Started TC_005
+2019-05-17 14:22:33,361 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:33,711 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:33,784 - SauceDemo -INFO - Login NOT successful due to Blank Username
+2019-05-17 14:22:34,702 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:38,685 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:22:39,809 - SauceDemo -INFO - Started TC_006
+2019-05-17 14:22:39,810 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:40,112 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:40,207 - SauceDemo -INFO - Login NOT successful due to Blank Password
+2019-05-17 14:22:41,061 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:44,604 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:22:45,939 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:22:45,940 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:46,341 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:46,424 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:22:46,532 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:22:46,533 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:46,963 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:47,028 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:22:48,399 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:22:55,019 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:22:55,743 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:55,743 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:57,918 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:57,927 - SauceDemo -INFO - Login successful
+2019-05-17 14:22:58,142 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:58,142 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:22:58,577 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:22:58,582 - SauceDemo -INFO - Login successful
+2019-05-17 14:22:58,712 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:22:58,713 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:04,112 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:04,120 - SauceDemo -INFO - Login successful
+2019-05-17 14:23:04,507 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:23:04,510 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:05,061 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:05,066 - SauceDemo -ERROR - Login failed
+2019-05-17 14:23:07,966 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:23:14,321 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:23:14,680 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:23:14,680 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:15,276 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:15,353 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:23:16,453 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:23:16,454 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:16,950 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:17,069 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:23:19,829 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:23:26,480 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:23:26,760 - SauceDemo -INFO - Started TC_005
+2019-05-17 14:23:26,762 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:27,300 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:27,528 - SauceDemo -INFO - Login NOT successful due to Blank Username
+2019-05-17 14:23:30,516 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:23:37,576 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:23:37,850 - SauceDemo -INFO - Started TC_006
+2019-05-17 14:23:37,850 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:38,311 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:38,474 - SauceDemo -INFO - Login NOT successful due to Blank Password
+2019-05-17 14:23:41,919 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:23:48,396 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:23:48,860 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:23:48,861 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:49,415 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:49,689 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:23:50,682 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:23:50,683 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:23:51,180 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:23:51,317 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:32:29,333 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:32:33,972 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:32:36,124 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:32:36,125 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:38,447 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:38,461 - SauceDemo -INFO - Login successful
+2019-05-17 14:32:38,553 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:32:38,554 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:39,326 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:39,334 - SauceDemo -INFO - Login successful
+2019-05-17 14:32:39,389 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:32:39,390 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:44,831 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:44,850 - SauceDemo -INFO - Login successful
+2019-05-17 14:32:44,948 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:32:44,950 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:45,331 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:45,337 - SauceDemo -ERROR - Login failed
+2019-05-17 14:32:46,802 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:32:51,144 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:32:52,490 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:32:52,491 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:52,844 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:52,926 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:32:53,032 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:32:53,033 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:53,328 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:53,393 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:32:54,274 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:32:58,348 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:32:59,506 - SauceDemo -INFO - Started TC_005
+2019-05-17 14:32:59,507 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:32:59,772 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:32:59,849 - SauceDemo -INFO - Login NOT successful due to Blank Username
+2019-05-17 14:33:00,823 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:33:04,625 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:33:05,798 - SauceDemo -INFO - Started TC_006
+2019-05-17 14:33:05,799 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:06,086 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:06,178 - SauceDemo -INFO - Login NOT successful due to Blank Password
+2019-05-17 14:33:07,068 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:33:11,188 - SauceDemo -INFO - Opening base URL - in Chrome
+2019-05-17 14:33:12,529 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:33:12,529 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:12,975 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:13,075 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:33:13,324 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:33:13,325 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:13,701 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:13,764 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:33:15,032 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:33:21,364 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:33:21,875 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:33:21,877 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:24,142 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:24,145 - SauceDemo -INFO - Login successful
+2019-05-17 14:33:24,331 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:33:24,332 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:24,839 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:24,848 - SauceDemo -INFO - Login successful
+2019-05-17 14:33:24,996 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:33:24,996 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:30,394 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:30,397 - SauceDemo -INFO - Login successful
+2019-05-17 14:33:30,770 - SauceDemo -INFO - Started TC_001
+2019-05-17 14:33:30,771 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:31,257 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:31,265 - SauceDemo -ERROR - Login failed
+2019-05-17 14:33:34,116 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:33:41,199 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:33:41,609 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:33:41,609 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:42,166 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:42,285 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:33:43,090 - SauceDemo -INFO - Started TC_002
+2019-05-17 14:33:43,090 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:43,550 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:43,673 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:33:46,100 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:33:52,351 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:33:52,629 - SauceDemo -INFO - Started TC_005
+2019-05-17 14:33:52,630 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:33:53,012 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:33:53,082 - SauceDemo -INFO - Login NOT successful due to Blank Username
+2019-05-17 14:33:55,954 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:34:02,223 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:34:02,521 - SauceDemo -INFO - Started TC_006
+2019-05-17 14:34:02,521 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:34:02,913 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:34:03,036 - SauceDemo -INFO - Login NOT successful due to Blank Password
+2019-05-17 14:34:05,996 - SauceDemo -DEBUG - Debug logging has started 
+2019-05-17 14:34:12,426 - SauceDemo -INFO - Opening base URL - in FireFox
+2019-05-17 14:34:12,798 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:34:12,802 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:34:13,364 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:34:13,507 - SauceDemo -INFO - Login NOT successful
+2019-05-17 14:34:14,332 - SauceDemo -INFO - Started TC_008
+2019-05-17 14:34:14,332 - SauceDemo -INFO - Providing Login Details
+2019-05-17 14:34:14,825 - SauceDemo -INFO - Login Page validation
+2019-05-17 14:34:14,909 - SauceDemo -INFO - Login NOT successful

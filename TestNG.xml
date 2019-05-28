@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Suite">
+	<!--<suite name="TestSuite" thread-count="1" parallel="classes" preserve-order="true"> -->
+	<listeners>   <!-- packagename.classname (for extent reports) -->
+		<listener class-name="com.SauceDemo.utilites.Reporting" />
+	</listeners>
+	<test name="TestNGTest1" thread-count="5">
+		<!-- passing browser parameter in base class to run the desired browser -->
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!-- packagename.classname -->
+			<class name="com.SauceDemo.testCases.TC_001" />
+			<class name="com.SauceDemo.testCases.TC_002" />
+			<class name="com.SauceDemo.testCases.TC_005" />
+			<class name="com.SauceDemo.testCases.TC_006" />
+			<class name="com.SauceDemo.testCases.TC_008" />
+		</classes>
+	</test>
+  	<test name="TestNGTest2" thread-count="5">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.SauceDemo.testCases.TC_001" />
+			<class name="com.SauceDemo.testCases.TC_002" />
+			<class name="com.SauceDemo.testCases.TC_005" />
+			<class name="com.SauceDemo.testCases.TC_006" />
+			<class name="com.SauceDemo.testCases.TC_008" />
+		</classes>
+	</test>  <!-- Test -->
+</suite> <!-- Suite --> 
